@@ -1,0 +1,40 @@
+body, html{
+	font-family: 'Open Sans', sans-serif;
+	text-rendering: optimizeLegibility !important;
+	-webkit-font-smoothing: antialiased !important;
+	color: #666;
+	width: 100% !important;
+	height: 100% !important;
+}
+body{
+    background-color: #D7D7D7;
+}
+main{
+    width: 80%;
+    height: 470px;
+    margin: auto;
+    padding: 0;
+    text-align: center;
+    border: gray outset 1.5px;
+    float: none;
+    margin-bottom: 1%;
+    background-color: #e7e7e7;
+    box-shadow: #666 -1 -1;
+}
+h3, h4{
+    display: inline;
+}
+p{
+    font-size: larger;
+    font-weight: bolder;
+}
+button{
+    background-color: #666;
+    color: #D7D7D7;
+}
+button:hover{
+    background-color: rgb(36, 36, 48);
+    color: rgb(255, 255, 255);
+    transform: scale(1.5, 1.5);
+    transition: ease-in-out.5s all;
+}

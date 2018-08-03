@@ -1,0 +1,27 @@
+
+.hajjform{
+   display: inline-block;
+    width: 35%;
+    height: 500px;
+    background-color: rgb(175, 190, 31);
+    color: rgb(255, 255, 255) ;
+    line-height: 10%;
+    margin: 7%;
+    padding: 10%;
+    border-radius: 5%;
+    font-size: 120px;
+}
+.freelancerform{
+
+    width: 35%;
+    height: 500px;
+    background-color: rgb(45, 42, 206);
+    color: rgb(255, 255, 255) ;
+    line-height: 10%;
+    line-break: auto;
+    display: inline-block;
+    margin: 7%;
+    padding: 10%;
+    border-radius: 5%;
+    font-size: xx-large;
+}
